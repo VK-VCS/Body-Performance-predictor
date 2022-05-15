@@ -1,6 +1,6 @@
 # Body-Performance-predictor
 
-Predicts the individual body performances from A-D based on performance with age and some exercise performance data
+Predicts the individual body performances from A-D based on age and some exercise performance data
 
 age : 20 ~64
 gender : F,M
